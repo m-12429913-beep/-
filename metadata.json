@@ -1,0 +1,8 @@
+{
+  "name": "大家庭公司教育中心",
+  "description": "专业的教育辅导平台，涵盖华文、科学、数学、地理、历史及RBT，配备全能人工智能导师，助力学生全方位提升。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
